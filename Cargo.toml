@@ -1,0 +1,11 @@
+[package]
+name = "ann-structured"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.31.3"
+rand = "0.8.5"
+rand_distr = "0.4.3"
